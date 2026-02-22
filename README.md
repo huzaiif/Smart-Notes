@@ -11,9 +11,6 @@ SmartNotes is a premium, modern Android application built with Kotlin and Materi
 - **Dynamic Grid**: Staggered list view for a modern, high-end productivity app feel.
 - **ViewBinding**: Type-safe layout interactions.
 
-## Screenshots
-*(Add your screenshots here)*
-
 ## Tech Stack
 
 - **Language**: Kotlin
