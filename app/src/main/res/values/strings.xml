@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartNotes</string>
+    <string name="add_note">Add Note</string>
+    <string name="note_title">Title</string>
+    <string name="note_description">Description</string>
+    <string name="generate_ai">Generate with AI</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="save_note">Save Note</string>
+    <string name="delete_note">Delete Note</string>
+</resources>

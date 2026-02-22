@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SmartNotes" parent="Theme.Material3.Dark.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorPrimaryContainer">@color/surface_dark</item>
+        <item name="colorOnPrimaryContainer">@color/on_surface_dark</item>
+        
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorOnSecondary">@color/on_primary</item>
+        
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/background_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        
+        <!-- Background and Surface -->
+        <item name="android:windowBackground">@color/background_dark</item>
+        <item name="colorSurface">@color/surface_dark</item>
+        <item name="colorOnSurface">@color/on_surface_dark</item>
+
+        <!-- Component Styles -->
+        <item name="materialButtonStyle">@style/Widget.SmartNotes.Button</item>
+        <item name="textInputStyle">@style/Widget.SmartNotes.TextInputLayout</item>
+        <item name="floatingActionButtonStyle">@style/Widget.SmartNotes.FAB</item>
+    </style>
+</resources>
